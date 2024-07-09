@@ -7,4 +7,5 @@
 * This project recreates the Microsoft homepage using HTML for structure and Tailwind CSS for styling. It aims to provide a learning experience in web development and demonstrate the power of Tailwind's utility-first approach.*
 
 **Live Demo**
+
 https://abusufyan-03.github.io/Microsoft-home-page-clone/
